@@ -1,4 +1,4 @@
-# Readme
+# README.md
 
 This is a fun project I made, when I couldn't find a color generator to suit my needs (and was bored)
 
@@ -16,5 +16,5 @@ this can be done by running
 
 # License
 
-Copy this whenever, wherever, say it's you own code for all I care.
+Copy this whenever, wherever, say it's your own code for all I care.
 I just made this to solve a problem I had.
