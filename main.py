@@ -54,7 +54,7 @@ def main():
 def genColor(letters):
     colorcode = "#"
     for i in range(0, 6):
-        rand = random.randint(0, 15)
+        rand = random.randint(0, len(letters) - 1)
         colorcode += letters[rand]
     return colorcode
 
